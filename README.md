@@ -12,7 +12,26 @@ Its that time of year again! And this time NetX, MACE’s very own Open Source c
 
 ## How to contribute ?
 
-There are 3 ways in which you can contribute to hacktoberfest via NetX.
+HOW TO PARTICIPATE
+
+Step 1: Login to your GitHub account and register for Hacktoberfest.  
+Step 2: Contribute to any repository you like (check the instructions given in each repository).  
+Step 3: Now start contributing.  
+
+Once you have signed up, you can check your progress on the Hacktoberfest website.  
+
+Here are a few steps for making your first PR:  
+
+Step 1: Choose any repository available on GitHub. You can search with the tag “hactoberfest”.  
+Step 2: Check for the issues present in that repository or raise an issue if required.  
+Step 3: Check whether you’re able to solve the chosen issue with your technical skills or not.  
+Step 4: If yes, fork the repository into your own GitHub profile and if not, search for another repository, until you get an issue which can be resolved.  
+Step 5: Make the required changes to resolve the issue and commit it.  
+Step 6: You can now raise a PR.  
+  
+You can check your dashboard for getting the updates of your raised PRs. If your PR is good enough to be considered for the challenge, it’ll be counted. Or else, if you are raising the PR from a spam repository or if your PR doesn’t meet the Hacktoberfest quality standards, then it will be flagged.
+  
+We have 3 repos for you guys to contribute to  
 
 - **Netx/profilepageHacktoberfest**  
   Go to this repo, you'll find out instructions on how to do complete the challenge here
