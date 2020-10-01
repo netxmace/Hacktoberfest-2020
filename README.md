@@ -47,7 +47,7 @@ You can check your dashboard for getting the updates of your raised PRs. If your
 
 #### => We've a few repos at which you can try your hand at : 
 
-- **Netx/profilepageHacktoberfest**  
+- **netxmace/Hacktoberfest-Contributers**  
 
   Go to this repo, you'll find out instructions on how to complete the challenge here
  
@@ -59,9 +59,12 @@ You can check your dashboard for getting the updates of your raised PRs. If your
   
   This will be something **we build together!**
   
+  <!---
 - **NetX/enteprowfriend**  
     Head over to this repo, share some of your **friend's awesome projects** on github that deserve some light.
     
     Who doesn't love some attention? 😌
+    
+    -->
    
   
