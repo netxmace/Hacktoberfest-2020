@@ -13,6 +13,8 @@ Its that time of year again! And this time **NetX**, MACE’s very own **Open So
 
 So...in simple words, in language of normal humans...We were talking about how you can contribute! 👇🏻
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### How to contribute ?
 
 #### => MAKE SURE YOU'RE IN!
@@ -40,7 +42,9 @@ Once you have signed up, you can **check your progress on the Hacktoberfest webs
 **Step 6:** You can now **raise a PR.**  
   
 You can check your dashboard for getting the updates of your raised PRs. If your PR is good enough to be considered for the challenge, it’ll be counted. Or else, if you are raising the PR from a spam repository or if your PR doesn’t meet the Hacktoberfest quality standards, then it will be flagged.🏴
-  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### => We've a few repos at which you can try your hand at : 
 
 - **Netx/profilepageHacktoberfest**  
