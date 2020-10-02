@@ -47,11 +47,11 @@ You can check your dashboard for getting the updates of your raised PRs. If your
 
 #### => We've a few repos at which you can try your hand at : 
 
-- **netxmace/Hacktoberfest-Contributers**  
+- **[netxmace/Hacktoberfest-Contributers](https://github.com/netxmace/Hacktoberfest-Contributers)**  
 
   Go to this repo, you'll find out instructions on how to complete the challenge here
  
-- **netxmace/Resource_Library**  
+- **[netxmace/Resource_Library](https://github.com/netxmace/Resource_Library)**  
 
   Go to this repo, share some of your fav resoruces. You'll find additional info in the repo. 
   
